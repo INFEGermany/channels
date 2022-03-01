@@ -1,0 +1,763 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ae-ar/osn.com.epg.xml,https://iptv-org.github.io/epg/guides/af/arianatelevision.com.epg.xml,https://iptv-org.github.io/epg/guides/al/ipko.com.epg.xml,https://iptv-org.github.io/epg/guides/am/tv.mail.ru.epg.xml,https://iptv-org.github.io/epg/guides/ao/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/ar/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/au/ontvtonight.com.epg.xml,https://iptv-org.github.io/epg/guides/az/tv.mail.ru.epg.xml,https://iptv-org.github.io/epg/guides/ba/mtel.ba.epg.xml,https://iptv-org.github.io/epg/guides/bf/canalplus-afrique.com.epg.xml,https://iptv-org.github.io/epg/guides/bf/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/bg/tv.dir.bg.epg.xml,https://iptv-org.github.io/epg/guides/bi/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/bl/canalplus-caraibes.com.epg.xml,https://iptv-org.github.io/epg/guides/bo/comteco.com.bo.epg.xml,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/bs/rev.bs.epg.xml,https://iptv-org.github.io/epg/guides/by/tv.mail.ru.epg.xml,https://iptv-org.github.io/epg/guides/ca/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/ch/tv.blue.ch.epg.xml,https://iptv-org.github.io/epg/guides/cl/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/cl/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/cn/tv.cctv.com.epg.xml,https://iptv-org.github.io/epg/guides/co/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/co/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/co/siba.com.co.epg.xml,https://iptv-org.github.io/epg/guides/cr/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/cu/tvcubana.icrt.cu.epg.xml,https://iptv-org.github.io/epg/guides/cz/m.tv.sms.cz.epg.xml,https://iptv-org.github.io/epg/guides/de/hd-plus.de.epg.xml,https://iptv-org.github.io/epg/guides/dk/allente.se.epg.xml,https://iptv-org.github.io/epg/guides/do/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/ee-en/teliatv.ee.epg.xml,https://iptv-org.github.io/epg/guides/eg-ar/elcinema.com.epg.xml,https://iptv-org.github.io/epg/guides/es/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/es/programacion-tv.elpais.com.epg.xml,https://iptv-org.github.io/epg/guides/et/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/fo/kvf.fo.epg.xml,https://iptv-org.github.io/epg/guides/fr/chaines-tv.orange.fr.epg.xml,https://iptv-org.github.io/epg/guides/fr/programme-tv.net.epg.xml,https://iptv-org.github.io/epg/guides/ge/magticom.ge.epg.xml,https://iptv-org.github.io/epg/guides/gr/cosmote.gr.epg.xml,https://iptv-org.github.io/epg/guides/gt/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/gt/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml,https://iptv-org.github.io/epg/guides/hn/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/hn/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/hr/maxtv.hrvatskitelekom.hr.epg.xml,https://iptv-org.github.io/epg/guides/hu/tvmusor.hu.epg.xml,https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml,https://iptv-org.github.io/epg/guides/ie/ontvtonight.com.epg.xml,https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml,https://iptv-org.github.io/epg/guides/ir/tva.tv.epg.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml,https://iptv-org.github.io/epg/guides/it/mediaset.it.epg.xml,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml,https://iptv-org.github.io/epg/guides/ke/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/km/canalplus-reunion.com.epg.xml,https://iptv-org.github.io/epg/guides/kz/tv.yandex.ru.epg.xml,https://iptv-org.github.io/epg/guides/mk/maxtvgo.mk.epg.xml,https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/mz/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/ng/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/ni/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/nl/delta.nl.epg.xml,https://iptv-org.github.io/epg/guides/no/frikanalen.no.epg.xml,https://iptv-org.github.io/epg/guides/pa/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/pe/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/pe/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.epg.xml,https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml,https://iptv-org.github.io/epg/guides/py/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/ro/programetv.ro.epg.xml,https://iptv-org.github.io/epg/guides/rs/mts.rs.epg.xml,https://iptv-org.github.io/epg/guides/ru/tv.yandex.ru.epg.xml,https://iptv-org.github.io/epg/guides/se/allente.se.epg.xml,https://iptv-org.github.io/epg/guides/si/tv2go.t-2.net.epg.xml,https://iptv-org.github.io/epg/guides/sv/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/sv/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/tr/dsmart.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/tr/tvplus.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/ua/tvgid.ua.epg.xml,https://iptv-org.github.io/epg/guides/ug/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/ontvtonight.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/za/dstv.com.epg.xml"
+#EXTINF:-1,(GR) 4E TV
+http://alemip.tv:5000/UNqzaa8aIv/olo9c4Tzap/2813
+#EXTINF:-1,(GR) ALPHA
+http://alemip.tv:5000/UNqzaa8aIv/olo9c4Tzap/2822
+#EXTINF:-1,(GR) ANTI 1
+http://alemip.tv:5000/UNqzaa8aIv/olo9c4Tzap/2833
+#EXTINF:-1,(GR) ERT 1
+http://alemip.tv:5000/UNqzaa8aIv/olo9c4Tzap/2836
+#EXTINF:-1,(GR) ERT2
+http://alemip.tv:5000/UNqzaa8aIv/olo9c4Tzap/2835
+#EXTINF:-1,GR | 4E TV SD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5333
+#EXTINF:-1,GR | 4E TV HD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5334
+#EXTINF:-1,GR | AB SD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5335
+#EXTINF:-1,GR | Alert TV HD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5339
+#EXTINF:-1,GR | Alpha HD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5341
+#EXTINF:-1,GR | Epirus TV 1 SD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5343
+#EXTINF:-1,GR | MAROUSSIOTIKA TV SD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5345
+#EXTINF:-1,GR | ART TV
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5346
+#EXTINF:-1,GR | Greek Voice Ontario SD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5350
+#EXTINF:-1,GR | Diavata SD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5352
+#EXTINF:-1,GR | Baraza Music TV HD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5354
+#EXTINF:-1,GR | Baraza Music TV Dance HD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5355
+#EXTINF:-1,GR | Baraza Music TV Greek HD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5357
+#EXTINF:-1,GR | Cannali Music HD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5363
+#EXTINF:-1,GR | Kids TV
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5364
+#EXTINF:-1,GR | NS TV HD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5366
+#EXTINF:-1,GR | CBS Reality SD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5369
+#EXTINF:-1,GR | Egnatia HD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5372
+#EXTINF:-1,GR | Corfu Channel HD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5374
+#EXTINF:-1,GR | Creta TV SDⓧ
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5375
+#EXTINF:-1,GR | Delta TV HD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5378
+#EXTINF:-1,GR | Channel 9 HD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5390
+#EXTINF:-1,GR | ENA TV HD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5403
+#EXTINF:-1,GR | ERT 1 HD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5407
+#EXTINF:-1,GR | ERT 2 HD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5408
+#EXTINF:-1,GR | ERT 3ⓧ HD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5409
+#EXTINF:-1,GR | ERT News SD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5412
+#EXTINF:-1,GR | ERT Sports SD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5415
+#EXTINF:-1,GR | ERT World SD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5416
+#EXTINF:-1,GR | Eurosport 1 FHD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5423
+#EXTINF:-1,GR | Fox Life HD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5436
+#EXTINF:-1,GR | HIGH TV SD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5441
+#EXTINF:-1,GR | Ionian TV HD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5447
+#EXTINF:-1,GR | Horse Racing SD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5450
+#EXTINF:-1,GR | Notioi TV HD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5451
+#EXTINF:-1,GR | Ekklhsia TV HD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5452
+#EXTINF:-1,GR | Greek TV London HD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5454
+#EXTINF:-1,GR | Kontra FHD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5456
+#EXTINF:-1,GR | Lynchos FHD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5462
+#EXTINF:-1,GR | Magic TV SD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5466
+#EXTINF:-1,GR | MEGA SD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5471
+#EXTINF:-1,GR | Mesogeios TV SD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5473
+#EXTINF:-1,GR | Messinia Web TV HD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5475
+#EXTINF:-1,GR | Montreal Greek TV SD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5476
+#EXTINF:-1,GR | Choice FHD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5480
+#EXTINF:-1,GR | Dipso TV HD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5483
+#EXTINF:-1,GR | Messatida TV HD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5485
+#EXTINF:-1,GR | Nea TV HD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5488
+#EXTINF:-1,GR | NG Radio HD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5493
+#EXTINF:-1,GR | Nickelodeon FHD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5495
+#EXTINF:-1,GR | NOVA Premiere 1 HD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5503
+#EXTINF:-1,GR | NOVA Premiere 4 HD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5506
+#EXTINF:-1,GR | NOVA Premiere 9 FHD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5513
+#EXTINF:-1,GR | NOVA Premiere 10 FHD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5514
+#EXTINF:-1,GR | NOVA Premiere 8 FHD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5515
+#EXTINF:-1,GR | NRG 91 HD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5542
+#EXTINF:-1,GR | Open Beyond SD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5547
+#EXTINF:-1,GR | Open Beyond HD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5548
+#EXTINF:-1,GR | Outdoor Channel HD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5565
+#EXTINF:-1,GR | Reload Radio HDⓧ
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5571
+#EXTINF:-1,GR | RIK SAT CY HD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5573
+#EXTINF:-1,GR | Samiaki SD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5576
+#EXTINF:-1,GR | Sigma HDⓧ
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5578
+#EXTINF:-1,GR | Skai HD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5579
+#EXTINF:-1,GR | Start TV SDⓧ
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5582
+#EXTINF:-1,GR | Tile Mousiki HD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5587
+#EXTINF:-1,GR | Travel Channel HD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5592
+#EXTINF:-1,GR | TV 100 HDⓧ
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5594
+#EXTINF:-1,GR | Filopoli TVⓧ
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5596
+#EXTINF:-1,GR | Vouli Tileorasi 2 SD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5607
+#EXTINF:-1,GR | Vouli Tileorasi SDⓧ
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5608
+#EXTINF:-1,GR | Xplore Channel FHD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5611
+#EXTINF:-1,GR | Zougla TV HD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5613
+#EXTINF:-1,GR | Κρήτη TV HD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/5614
+#EXTINF:-1,GR | COSMOTE Sport 1ⓧ FHD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/49341
+#EXTINF:-1,GR | COSMOTE Sport 1ⓧ HD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/49342
+#EXTINF:-1,GR | COSMOTE Sport 2 HD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/49343
+#EXTINF:-1,GR | CNN International HD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/54437
+#EXTINF:-1,GR | NOVA Sports 1 FHD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/61673
+#EXTINF:-1,GR | NOVA Sports 2ⓧ HD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/61674
+#EXTINF:-1,GR | NOVA Sports 3 HD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/61675
+#EXTINF:-1,GR | Xalastra TV SDⓧ
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/91774
+#EXTINF:-1,GR | Irida TV SD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93084
+#EXTINF:-1,GR | Digital TV CY HD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93087
+#EXTINF:-1,GR | Hlektra TV FHD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93088
+#EXTINF:-1,GR | BCI 24 News
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93089
+#EXTINF:-1,GR | Greek Cinema 2 ⓧ
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/120734
+#EXTINF:-1,GR | Greek Cinema 3 ⓧ
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/120735
+#EXTINF:-1,GR | ΡΙΚ Sat HD ⓧ
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/121873
+#EXTINF:-1,GR | Μεσσάτιδα TV HD ⓧ
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/121874
+#EXTINF:-1,GR | Ηλέκτρα TV ⓧ
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/121875
+#EXTINF:-1,GR | Εκκλησία FHD ⓧ
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/121876
+#EXTINF:-1,GR | Εγνατία Τηλεόραση ⓧ
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/121877
+#EXTINF:-1,GR | Βουλή Τηλεόραση ⓧ
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/121878
+#EXTINF:-1,GR | Βουλή Τηλεόραση 2 ⓧ
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/121879
+#EXTINF:-1,GR | Zerouno TV HD ⓧ
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/121885
+#EXTINF:-1,GR: 4E HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147575.ts
+#EXTINF:-1,GR: Acheloos TV HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147576.ts
+#EXTINF:-1,GR: Action 24 HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147577.ts
+#EXTINF:-1,GR: Alert TV HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147578.ts
+#EXTINF:-1,GR: Alfa TV FHD
+http://yenipanel.com:8080/live/eser1234/eser4321/147579.ts
+#EXTINF:-1,GR: Alpha TV HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147580.ts
+#EXTINF:-1,GR: ANIMAL PLANET FHD
+http://yenipanel.com:8080/live/eser1234/eser4321/147581.ts
+#EXTINF:-1,GR: Ant1 HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147583.ts
+#EXTINF:-1,GR: Apxeio HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147584.ts
+#EXTINF:-1,GR: ART TV HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147585.ts
+#EXTINF:-1,GR: Astra HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147586.ts
+#EXTINF:-1,GR: Attica TV FHD
+http://yenipanel.com:8080/live/eser1234/eser4321/147587.ts
+#EXTINF:-1,GR: Baby TV HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147588.ts
+#EXTINF:-1,GR: Baraza Music TV FHD
+http://yenipanel.com:8080/live/eser1234/eser4321/147590.ts
+#EXTINF:-1,GR: Boyah TV HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147592.ts
+#EXTINF:-1,GR: Cannali Music HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147593.ts
+#EXTINF:-1,GR: Channel Nine HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147595.ts
+#EXTINF:-1,GR: Corfu Channel HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147596.ts
+#EXTINF:-1,GR: COSMOTE CINEMA 2 HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147597.ts
+#EXTINF:-1,GR: COSMOTE History
+http://yenipanel.com:8080/live/eser1234/eser4321/147598.ts
+#EXTINF:-1,GR: COSMOTE SPORT 1 HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147599.ts
+#EXTINF:-1,GR: COSMOTE SPORT 2 HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147600.ts
+#EXTINF:-1,GR: COSMOTE SPORT 3 HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147601.ts
+#EXTINF:-1,GR: COSMOTE SPORT 4 HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147602.ts
+#EXTINF:-1,GR: COSMOTE SPORT 5 HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147603.ts
+#EXTINF:-1,GR: COSMOTE SPORT 6 HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147604.ts
+#EXTINF:-1,GR: COSMOTE SPORT 7 HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147605.ts
+#EXTINF:-1,GR: Creta TV HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147606.ts
+#EXTINF:-1,GR: Crime+ Investigation
+http://yenipanel.com:8080/live/eser1234/eser4321/147607.ts
+#EXTINF:-1,GR: Diktyo TV HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147608.ts
+#EXTINF:-1,GR: Discovery Channel
+http://yenipanel.com:8080/live/eser1234/eser4321/147609.ts
+#EXTINF:-1,GR: Discovery Science HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147610.ts
+#EXTINF:-1,GR: Discovery World FHD
+http://yenipanel.com:8080/live/eser1234/eser4321/147612.ts
+#EXTINF:-1,GR: Disney Channel HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147614.ts
+#EXTINF:-1,GR: Disney Junior HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147616.ts
+#EXTINF:-1,GR: Disney XD
+http://yenipanel.com:8080/live/eser1234/eser4321/147617.ts
+#EXTINF:-1,GR: Epirus TV1 HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147618.ts
+#EXTINF:-1,GR: ERT 1 HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147619.ts
+#EXTINF:-1,GR: ERT 2 HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147620.ts
+#EXTINF:-1,GR: ERT 3 HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147621.ts
+#EXTINF:-1,GR: ERT Sports HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147622.ts
+#EXTINF:-1,GR: ERT World HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147623.ts
+#EXTINF:-1,GR: Filopoli TV HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147628.ts
+#EXTINF:-1,GR: Fox Life FHD
+http://yenipanel.com:8080/live/eser1234/eser4321/147629.ts
+#EXTINF:-1,GR: Fox News Channel HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147631.ts
+#EXTINF:-1,GR: GREEK TV LONDON HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147632.ts
+#EXTINF:-1,GR: High TV HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147633.ts
+#EXTINF:-1,GR: History HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147634.ts
+#EXTINF:-1,GR: Investigation Discovery HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147636.ts
+#EXTINF:-1,GR: Ionian Channel FHD
+http://yenipanel.com:8080/live/eser1234/eser4321/147638.ts
+#EXTINF:-1,GR: Kontra FHD
+http://yenipanel.com:8080/live/eser1234/eser4321/147639.ts
+#EXTINF:-1,GR: Kriti TV HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147640.ts
+#EXTINF:-1,GR: Makedonia TV HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147641.ts
+#EXTINF:-1,GR: MEGA 1 HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147642.ts
+#EXTINF:-1,GR: Mega TV FHD
+http://yenipanel.com:8080/live/eser1234/eser4321/147643.ts
+#EXTINF:-1,GR: Messinia Web TV HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147644.ts
+#EXTINF:-1,GR: MTV Hits HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147645.ts
+#EXTINF:-1,GR: NAT GEO Wild
+http://yenipanel.com:8080/live/eser1234/eser4321/147647.ts
+#EXTINF:-1,GR: Nea TV HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147648.ts
+#EXTINF:-1,GR: NET TV HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147649.ts
+#EXTINF:-1,GR: NG Radio HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147650.ts
+#EXTINF:-1,GR: nickelodeon HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147651.ts
+#EXTINF:-1,GR: Notioi TV FHD
+http://yenipanel.com:8080/live/eser1234/eser4321/147653.ts
+#EXTINF:-1,GR: Nova Cinema 1 HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147654.ts
+#EXTINF:-1,GR: Nova Cinema 2 HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147655.ts
+#EXTINF:-1,GR: Nova Cinema 3 HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147656.ts
+#EXTINF:-1,GR: Nova Cinema 4 HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147657.ts
+#EXTINF:-1,GR: Nova Cinema Action HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147658.ts
+#EXTINF:-1,GR: Nova Cinema HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147659.ts
+#EXTINF:-1,GR: Nova Premiere 3 FHD
+http://yenipanel.com:8080/live/eser1234/eser4321/147660.ts
+#EXTINF:-1,GR: Nova Premiere 4 4K FHD
+http://yenipanel.com:8080/live/eser1234/eser4321/147661.ts
+#EXTINF:-1,GR: Nova Premiere 5 4K FHD
+http://yenipanel.com:8080/live/eser1234/eser4321/147662.ts
+#EXTINF:-1,GR: Nova Premiere 6 4K FHD
+http://yenipanel.com:8080/live/eser1234/eser4321/147663.ts
+#EXTINF:-1,GR: Nova Premiere 7 4K HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147664.ts
+#EXTINF:-1,GR: Nova Premiere 8 4K HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147665.ts
+#EXTINF:-1,GR: Nova Premiere 9 4K HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147666.ts
+#EXTINF:-1,GR: Nova Premiere 10 FHD
+http://yenipanel.com:8080/live/eser1234/eser4321/147667.ts
+#EXTINF:-1,GR: Nova Premiere 11 FHD
+http://yenipanel.com:8080/live/eser1234/eser4321/147668.ts
+#EXTINF:-1,GR: Nova Premiere 12 FHD
+http://yenipanel.com:8080/live/eser1234/eser4321/147669.ts
+#EXTINF:-1,GR: Nova Premiere 13 FHD
+http://yenipanel.com:8080/live/eser1234/eser4321/147670.ts
+#EXTINF:-1,GR: Nova Premiere 14 4K HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147671.ts
+#EXTINF:-1,GR: Nova Premiere 15 FHD
+http://yenipanel.com:8080/live/eser1234/eser4321/147672.ts
+#EXTINF:-1,GR: Nova Premiere 16 FHD
+http://yenipanel.com:8080/live/eser1234/eser4321/147673.ts
+#EXTINF:-1,GR: Nova Premiere 17 FHD
+http://yenipanel.com:8080/live/eser1234/eser4321/147674.ts
+#EXTINF:-1,GR: Nova Premiere 18 FHD
+http://yenipanel.com:8080/live/eser1234/eser4321/147675.ts
+#EXTINF:-1,GR: Nova Premiere 3D
+http://yenipanel.com:8080/live/eser1234/eser4321/147676.ts
+#EXTINF:-1,GR: Nova Premiere Action FHD
+http://yenipanel.com:8080/live/eser1234/eser4321/147677.ts
+#EXTINF:-1,GR: Nova Premiere Adventure 4K HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147678.ts
+#EXTINF:-1,GR: Nova Premiere Animation FHD
+http://yenipanel.com:8080/live/eser1234/eser4321/147679.ts
+#EXTINF:-1,GR: Nova Premiere Biography FHD
+http://yenipanel.com:8080/live/eser1234/eser4321/147680.ts
+#EXTINF:-1,GR: Nova Premiere Comedy FHD
+http://yenipanel.com:8080/live/eser1234/eser4321/147681.ts
+#EXTINF:-1,GR: Nova Premiere Drama FHD
+http://yenipanel.com:8080/live/eser1234/eser4321/147682.ts
+#EXTINF:-1,GR: Nova Premiere Fantasy FHD
+http://yenipanel.com:8080/live/eser1234/eser4321/147683.ts
+#EXTINF:-1,GR: Nova Premiere HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147684.ts
+#EXTINF:-1,GR: Nova Premiere Hellenic FHD
+http://yenipanel.com:8080/live/eser1234/eser4321/147685.ts
+#EXTINF:-1,GR: Nova Premiere History FHD
+http://yenipanel.com:8080/live/eser1234/eser4321/147686.ts
+#EXTINF:-1,GR: Nova Premiere Horror HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147688.ts
+#EXTINF:-1,GR: Nova Premiere Mythology HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147689.ts
+#EXTINF:-1,GR: Nova Premiere Passion FHD
+http://yenipanel.com:8080/live/eser1234/eser4321/147690.ts
+#EXTINF:-1,GR: Nova Premiere sci-fi FHD
+http://yenipanel.com:8080/live/eser1234/eser4321/147691.ts
+#EXTINF:-1,GR: Nova Premiere Starz FHD
+http://yenipanel.com:8080/live/eser1234/eser4321/147692.ts
+#EXTINF:-1,GR: Nova Premiere Thriller HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147693.ts
+#EXTINF:-1,GR: Nova Premiere Western HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147694.ts
+#EXTINF:-1,GR: Nova Throne Season 1 HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147695.ts
+#EXTINF:-1,GR: Nova Throne Season 2 HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147696.ts
+#EXTINF:-1,GR: Nova Throne Season 3 HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147697.ts
+#EXTINF:-1,GR: Nova Throne Season 4 HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147698.ts
+#EXTINF:-1,GR: Nova Throne Season 5 HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147699.ts
+#EXTINF:-1,GR: Nova Throne Season 6 HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147700.ts
+#EXTINF:-1,GR: Nova Throne Season 7 HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147701.ts
+#EXTINF:-1,GR: Nova Throne Season 8 HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147702.ts
+#EXTINF:-1,GR: Novasports 3 HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147703.ts
+#EXTINF:-1,GR: Novasports 4 HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147704.ts
+#EXTINF:-1,GR: Novasports 5 HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147705.ts
+#EXTINF:-1,GR: NRG 91 HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147706.ts
+#EXTINF:-1,GR: Open Beyond TV HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147707.ts
+#EXTINF:-1,GR: OPEN TV
+http://yenipanel.com:8080/live/eser1234/eser4321/147708.ts
+#EXTINF:-1,GR: RIK Sat HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147709.ts
+#EXTINF:-1,GR: Skai HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147710.ts
+#EXTINF:-1,GR: Smile TV HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147711.ts
+#EXTINF:-1,GR: Star Channel HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147712.ts
+#EXTINF:-1,GR: Start HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147713.ts
+#EXTINF:-1,GR: ThrakiNet HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147714.ts
+#EXTINF:-1,GR: Tile Mousiki HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147715.ts
+#EXTINF:-1,GR: Trinitas TV HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147716.ts
+#EXTINF:-1,GR: TV 100 HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147717.ts
+#EXTINF:-1,GR: Viasat Explorer
+http://yenipanel.com:8080/live/eser1234/eser4321/147718.ts
+#EXTINF:-1,GR: Viasat History HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147719.ts
+#EXTINF:-1,GR: Village Cinemas HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147721.ts
+#EXTINF:-1,GR: Vitrína Nova Premiere HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147722.ts
+#EXTINF:-1,GR: VOULI
+http://yenipanel.com:8080/live/eser1234/eser4321/147723.ts
+#EXTINF:-1,GR: Xalastra TV HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147724.ts
+#EXTINF:-1,GR: Xplore Channel HD
+http://yenipanel.com:8080/live/eser1234/eser4321/147725.ts
+#EXTINF:-1,GR: 4E HD
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/147575.ts
+#EXTINF:-1,GR: Acheloos TV HD
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/147576.ts
+#EXTINF:-1,GR: ART TV HD
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/147585.ts
+#EXTINF:-1,GR: Astra HD
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/147586.ts
+#EXTINF:-1,GR: Attica TV FHD
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/147587.ts
+#EXTINF:-1,GR: Boyah TV HD
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/147592.ts
+#EXTINF:-1,GR: Channel Nine HD
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/147595.ts
+#EXTINF:-1,GR: COSMOTE History
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/147598.ts
+#EXTINF:-1,GR: COSMOTE SPORT 1 HD
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/147599.ts
+#EXTINF:-1,GR: COSMOTE SPORT 2 HD
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/147600.ts
+#EXTINF:-1,GR: COSMOTE SPORT 4 HD
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/147602.ts
+#EXTINF:-1,GR: COSMOTE SPORT 5 HD
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/147603.ts
+#EXTINF:-1,GR: Creta TV HD
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/147606.ts
+#EXTINF:-1,GR: Discovery Channel
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/147609.ts
+#EXTINF:-1,GR: Disney Channel HD
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/147614.ts
+#EXTINF:-1,GR: Disney Junior HD
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/147616.ts
+#EXTINF:-1,GR: Disney XD
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/147617.ts
+#EXTINF:-1,GR: Epirus TV1 HD
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/147618.ts
+#EXTINF:-1,GR: ERT 1 HD
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/147619.ts
+#EXTINF:-1,GR: ERT 2 HD
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/147620.ts
+#EXTINF:-1,GR: ERT 3 HD
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/147621.ts
+#EXTINF:-1,GR: ERT Sports HD
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/147622.ts
+#EXTINF:-1,GR: ERT World HD
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/147623.ts
+#EXTINF:-1,GR: Fox News Channel HD
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/147631.ts
+#EXTINF:-1,GR: GREEK TV LONDON HD
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/147632.ts
+#EXTINF:-1,GR: High TV HD
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/147633.ts
+#EXTINF:-1,GR: Kriti TV HD
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/147640.ts
+#EXTINF:-1,GR: MEGA 1 HD
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/147642.ts
+#EXTINF:-1,GR: Mega TV FHD
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/147643.ts
+#EXTINF:-1,GR: Messinia Web TV HD
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/147644.ts
+#EXTINF:-1,GR: MTV Hits HD
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/147645.ts
+#EXTINF:-1,GR: NAT GEO Wild
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/147647.ts
+#EXTINF:-1,GR: NET TV HD
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/147649.ts
+#EXTINF:-1,GR: Notioi TV FHD
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/147653.ts
+#EXTINF:-1,GR: Nova Cinema 3 HD
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/147656.ts
+#EXTINF:-1,GR: Nova Cinema 4 HD
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/147657.ts
+#EXTINF:-1,GR: Nova Cinema Action HD
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/147658.ts
+#EXTINF:-1,GR: Nova Cinema HD
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/147659.ts
+#EXTINF:-1,GR: Nova Premiere 3 FHD
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/147660.ts
+#EXTINF:-1,GR: Nova Premiere 4 4K FHD
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/147661.ts
+#EXTINF:-1,GR: Nova Premiere 5 4K FHD
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/147662.ts
+#EXTINF:-1,GR: Nova Premiere 6 4K FHD
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/147663.ts
+#EXTINF:-1,GR: Nova Premiere 7 4K HD
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/147664.ts
+#EXTINF:-1,GR: Nova Premiere 15 FHD
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/147672.ts
+#EXTINF:-1,GR: Nova Premiere 17 FHD
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/147674.ts
+#EXTINF:-1,GR: Nova Premiere Adventure 4K HD
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/147678.ts
+#EXTINF:-1,GR: Nova Premiere Biography FHD
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/147680.ts
+#EXTINF:-1,GR: Nova Premiere Drama FHD
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/147682.ts
+#EXTINF:-1,GR: Nova Premiere Fantasy FHD
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/147683.ts
+#EXTINF:-1,GR: Nova Premiere HD
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/147684.ts
+#EXTINF:-1,GR: Nova Premiere History FHD
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/147686.ts
+#EXTINF:-1,GR: Nova Premiere Horror HD
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/147688.ts
+#EXTINF:-1,GR: Nova Premiere Mythology HD
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/147689.ts
+#EXTINF:-1,GR: Nova Premiere Passion FHD
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/147690.ts
+#EXTINF:-1,GR: Nova Throne Season 1 HD
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/147695.ts
+#EXTINF:-1,GR: Nova Throne Season 2 HD
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/147696.ts
+#EXTINF:-1,GR: Nova Throne Season 3 HD
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/147697.ts
+#EXTINF:-1,GR: Nova Throne Season 6 HD
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/147700.ts
+#EXTINF:-1,GR: Nova Throne Season 7 HD
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/147701.ts
+#EXTINF:-1,GR: Novasports 3 HD
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/147703.ts
+#EXTINF:-1,GR: Novasports 4 HD
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/147704.ts
+#EXTINF:-1,GR: Open Beyond TV HD
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/147707.ts
+#EXTINF:-1,GR: OPEN TV
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/147708.ts
+#EXTINF:-1,GR: Start HD
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/147713.ts
+#EXTINF:-1,GR: ThrakiNet HD
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/147714.ts
+#EXTINF:-1,GR: VOULI
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/147723.ts
+#EXTINF:-1,GR : ANT 1
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/29140
+#EXTINF:-1,GR: Action24
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/29143
+#EXTINF:-1,GR: Alpha HD
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/29141
+#EXTINF:-1,GR: Extra
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/29127
+#EXTINF:-1,GR: Kontra
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/29123
+#EXTINF:-1,GR: MAD TV
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/29120
+#EXTINF:-1,GR: MAD Hits
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/29121
+#EXTINF:-1,GR: Makedonia TV HD
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/29118
+#EXTINF:-1,GR : MEGA
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/29117
+#EXTINF:-1,GR: Nea TV HD
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/49241
+#EXTINF:-1,GR: Omega TV
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/28478
+#EXTINF:-1,GR: Samiaki
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/29113
+#EXTINF:-1,GR: Sigma
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/29111
+#EXTINF:-1,GR: Sigma Live
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/29110
+#EXTINF:-1,GR: Skai HD
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/28475
+#EXTINF:-1,GR: TLC
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/28471
+#EXTINF:-1,GR: Vouli
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/28466
+#EXTINF:-1,GR: Animal Planet
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/28544
+#EXTINF:-1,GR: Animal Planet HD
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/28543
+#EXTINF:-1,GR: Discovery Channel
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/28533
+#EXTINF:-1,GR: History HD
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/28512
+#EXTINF:-1,GR: Nat Geo Wild HD
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/28502
+#EXTINF:-1,GR: Viasat History
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/28468
+#EXTINF:-1,GR: AXELOOS TV
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/28519
+#EXTINF:-1,GR: OTE Cinema 1 HD
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/28496
+#EXTINF:-1,GR: OTE Cinema 2 FHD
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/28495
+#EXTINF:-1,GR: OTE Cinema 3 HD
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/28493
+#EXTINF:-1,GR: TV 100
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/28510
+#EXTINF:-1,GR: XALASTRA TV
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/28506
+#EXTINF:-1,GR: RIK 1
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/118645
+#EXTINF:-1 tvg-id="RTSH1.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/IVttVXp.png" group-title="Undefined",RTSH 1 (1080p) [Not 24/7]
+https://tvlive.rtsh.dev/live/rtsh_11mob1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="AL" tvg-language="" tvg-logo="" group-title="Undefined",RTSH 1 HD (406p)
+http://93.157.62.180/RTSH1/index.m3u8
+#EXTINF:-1 tvg-id="RTSH2.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/jEirJ9x.png" group-title="Undefined",RTSH 2 (406p) [Not 24/7]
+https://tvlive.rtsh.dev/live/rtsh_2ott/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="AL" tvg-language="" tvg-logo="" group-title="Undefined",RTSH 2 HD (406p)
+http://93.157.62.180/RTSH2/index.m3u8
+#EXTINF:-1 tvg-id="RTSH3.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/TNNYFYj.png" group-title="Undefined",RTSH 3 (406p)
+http://93.157.62.180/RTSH3/index.m3u8
+#EXTINF:-1 tvg-id="RTSH24.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/qLlUkn8.png" group-title="Undefined",RTSH 24 (406p)
+http://93.157.62.180/RTSH24/index.m3u8
+#EXTINF:-1 tvg-id="RTSHAgro.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/Vh5MgY8.png" group-title="Undefined",RTSH Agro (560p) [Not 24/7]
+http://93.157.62.180/RTSHAgro/index.m3u8
+#EXTINF:-1 tvg-id="RTSHSatelit.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="Undefined",RTSH Satelit (720p) [Geo-blocked]
+http://us.bestvideostreaming.is/8701/playlist.m3u8
+#EXTINF:-1 tvg-id="H1.am" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Armenian_Public_TV_logo.svg/507px-Armenian_Public_TV_logo.svg.png" group-title="General",Առաջին ալիք (1080p)
+http://serv24.vintera.tv:8081/test/h1_arm/index.m3u8
+#EXTINF:-1 tvg-id="ArmeniaTV.am" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/fnoOw8T.png" group-title="General" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Արմենիա TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s4/index.m3u8
+#EXTINF:-1 tvg-id="ArmNews.am" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/0vrFGY5.png" group-title="News" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Արմնյուզ (1080p) [Timeout]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s11/index.m3u8
+#EXTINF:-1 tvg-id="ORF1.at" tvg-country="AT" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/ORF1_logo.svg/1280px-ORF1_logo.svg.png" group-title="General",ORF 1 (720p) [Geo-blocked]
+https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest.m3u8
+#EXTINF:-1 tvg-id="ORF3.at" tvg-country="AT" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/ORF_III_Logo.png" group-title="Undefined",ORF 3 (720p) [Geo-blocked]
+https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest.m3u8
+#EXTINF:-1 tvg-id="SBSTV.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.320203000301.png" group-title="Undefined",SBS TV [Geo-blocked]
+https://i.mjh.nz/au/Sydney/tv.320203000301.m3u8
+#EXTINF:-1 tvg-id="IctimaiTV.az" tvg-country="AZ" tvg-language="Azerbaijani;Russian" tvg-logo="https://itv.az/assets/images/itv-logo.png" group-title="General",İctimai TV (720p) [Geo-blocked]
+https://node19.connect.az:8086/ch1/ch1.hi.m3u8
+#EXTINF:-1 tvg-id="TVL.be" tvg-country="BE" tvg-language="Dutch" tvg-logo="https://i.ibb.co/KGRYRmt/download.jpg" group-title="Undefined",TVL (720p) [Not 24/7]
+https://player-api.new.livestream.com/accounts/27755193/events/8452383/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="BE" tvg-language="" tvg-logo="" group-title="Undefined",RTL-TVi (720p)
+https://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
+#EXTINF:-1 tvg-id="BTK.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/5Sl6bKi.png" group-title="Undefined",BTK (576p) [Not 24/7]
+http://hls.cdn.bg:2007/fls/vtv/playlist.m3u8
+#EXTINF:-1 tvg-id="ETV.ee" tvg-country="EE" tvg-language="Estonian" tvg-logo="https://static.iptv-epg.com/ee/ETV.ee.png" group-title="Undefined",ETV (720p)
+https://errstreams4.cdn.eurovisioncdn.net/live/etv.m3u8
+#EXTINF:-1 tvg-id="ETV2.ee" tvg-country="EE" tvg-language="Estonian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ETV2_logo.svg/240px-ETV2_logo.svg.png" group-title="Undefined",ETV2 (720p)
+https://errstreams4.cdn.eurovisioncdn.net/live/etv2.m3u8
+#EXTINF:-1 tvg-id="YLETV1.fi" tvg-country="FI" tvg-language="Finnish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Yle_TV1_logo.svg/382px-Yle_TV1_logo.svg.png" group-title="Undefined",YLE TV 1 (720p) [Geo-blocked]
+https://yletv-lh.akamaihd.net/i/yletv1hls_1@103188/master.m3u8
+#EXTINF:-1 tvg-id="YLETV2.fi" tvg-country="FI" tvg-language="Finnish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Yle_TV2_logo.svg/399px-Yle_TV2_logo.svg.png" group-title="Undefined",YLE TV 2 (720p) [Geo-blocked]
+https://yletv-lh.akamaihd.net/i/yletv2hls_1@103189/master.m3u8
+#EXTINF:-1 tvg-id="YLETVTeemaAndFem.fi" tvg-country="FI" tvg-language="Finnish" tvg-logo="" group-title="Undefined",YLE TV Teema & Fem (720p) [Geo-blocked]
+https://yletv-lh.akamaihd.net/i/yleteemafemfi_1@490775/master.m3u8
+#EXTINF:-1 tvg-id="1TV.ge" tvg-country="GE" tvg-language="Georgian" tvg-logo="https://i.imgur.com/mX080in.png" group-title="Undefined",1TV (240p) [Geo-blocked]
+https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
+#EXTINF:-1 tvg-id="2TV.ge" tvg-country="GE" tvg-language="Georgian" tvg-logo="https://i.imgur.com/VBmQCH7.png" group-title="Undefined",2TV (720p) [Not 24/7]
+https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
+#EXTINF:-1 tvg-id="M3.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="" group-title="Undefined",M3 [Geo-blocked]
+https://stream9.nava.hu/m3_live_bdrm/_definst_/smil:m3_1080p_loop_nodrm.smil/chunklist_w72397576_b881072_slhun.m3u8?lb=b4bp7xeKAKovH1uDWU5XusWC/SZexs+JNLmxYvSb34kGup6SGRTTm5UkNNjfC62mmvYbuEqrt04E++Exer5ZNS/WN6JyMpY6GiuOU2osRulnM+gNsTWVD8z+LJt4imqAka++&platform=web_embed&sessid=Z4gLTQezzXGgWvNkiypb5PkmR64U1aoH3lFII14l3Mp2dZ5OtLoKQQY7XOn943ns&type=m3u8
+#EXTINF:-1 tvg-id="KAN11Israel.il" tvg-country="IL" tvg-language="Hebrew" tvg-logo="https://i.imgur.com/SBeqbv0.png" group-title="Undefined",KAN 11 Israel (360p) [Geo-blocked]
+https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/master.m3u8
+#EXTINF:-1 tvg-id="HRT1.hr" tvg-country="HR" tvg-language="Croatian" tvg-logo="https://i.imgur.com/W3FBVwT.png" group-title="Undefined" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0",HRT 1 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0
+http://195.29.70.67/PLTV/88888888/224/3221226139/index.m3u8
+#EXTINF:-1 tvg-id="HRT2.hr" tvg-country="HR" tvg-language="Croatian" tvg-logo="https://i.imgur.com/7swOkC3.png" group-title="Undefined" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0",HRT 2 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0
+http://195.29.70.67/PLTV/88888888/224/3221226140/index.m3u8
+#EXTINF:-1 tvg-id="HRT3.hr" tvg-country="HR" tvg-language="Croatian" tvg-logo="https://i.imgur.com/0hrv92c.png" group-title="Undefined" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0",HRT 3 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0
+http://195.29.70.67/PLTV/88888888/224/3221226280/index.m3u8
+#EXTINF:-1 tvg-id="HRT4.hr" tvg-country="HR" tvg-language="Croatian" tvg-logo="https://i.imgur.com/UVFs4zA.png" group-title="Undefined" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0",HRT 4 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0
+http://195.29.70.67/PLTV/88888888/224/3221226281/index.m3u8
+#EXTINF:-1 tvg-id="LatvijasRadio1.lv" tvg-country="LV" tvg-language="Latvian" tvg-logo="https://i.imgur.com/hsspORI.png" group-title="Undefined",Latvijas Radio 1 (360p) [Not 24/7]
+https://5a44e5b800a41.streamlock.net/liveVLR1/mp4:LR1/playlist.m3u8
+#EXTINF:-1 tvg-id="LatvijasRadio2.lv" tvg-country="LV" tvg-language="Latvian" tvg-logo="https://i.imgur.com/hsspORI.png" group-title="Undefined",Latvijas Radio 2 (240p)
+https://5a44e5b800a41.streamlock.net/liveVLR2/mp4:LR2/playlist.m3u8
+#EXTINF:-1 tvg-id="LRTLituanica.lt" tvg-country="LT" tvg-language="Lithuanian" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lrt_lt_lituanica.png" group-title="Undefined",LRT Lituanica (720p)
+https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8
+#EXTINF:-1 tvg-id="BHRT.ba" tvg-country="BA" tvg-language="Bosnian" tvg-logo="https://i.imgur.com/F8jTl1o.png" group-title="Undefined",BHRT (720p) [Geo-blocked]
+https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8
+#EXTINF:-1 tvg-id="RTP1.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/5-563718101410.png" group-title="General",RTP1 (480p)
+http://162.212.178.69:41042/bysid/608
+#EXTINF:-1 tvg-id="RTP2.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/3-363718101410.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP2 (504p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTP3.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/64-393818101410.png" group-title="News" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP3 (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTV1.rs" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://static.rtv.rs/assets/repository/2017/img/header/logo-rtv_sr_ci.png" group-title="Undefined",RTV 1 (576p) [Not 24/7]
+mmsh://212.200.255.151/rtv1
+#EXTINF:-1 tvg-id="RTV2.rs" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://static.rtv.rs/assets/repository/2017/img/header/logo-rtv_sr_ci.png" group-title="Undefined",RTV 2 (576p) [Not 24/7]
+mmsh://212.200.255.151/rtv2
+#EXTINF:-1 tvg-id="" tvg-country="SI" tvg-language="" tvg-logo="" group-title="Undefined",TV SLOVENIJA 1 (1080p)
+https://31-rtvslo-tv-slo1-int.cdn.eurovisioncdn.net/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="SI" tvg-language="" tvg-logo="" group-title="Undefined",TV SLOVENIJA 2 (720p)
+https://21-rtvslo-tv-slo2-int.cdn.eurovisioncdn.net/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="SI" tvg-language="" tvg-logo="" group-title="Undefined",TV SLOVENIJA 3 (720p)
+https://16-rtvslo-tv-slo3-int.cdn.eurovisioncdn.net/playlist.m3u8
+#EXTINF:-1 tvg-id="HersonPlyus.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://khersontv.com/wp-content/themes/hueman/img/logo.png" group-title="Undefined",Херсон Плюс (576p)
+http://46.175.163.130/ks_plus/index.m3u8
+#EXTINF:-1 tvg-id="Pershiynezalezhniy.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="" group-title="News",Перший незалежний (1080p) [Not 24/7]
+http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
+#EXTINF:-1 tvg-id="PervyygorodskoyKrivoyRog.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/lkstYbK.png" group-title="Undefined",Первый городской (Кривой Рог) (720p) [Not 24/7]
+https://cdn1.live-tv.od.ua:8083/1tvkr/1tvkr-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="DonbasOnline.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="" group-title="Undefined",Донбас Online (1080p) [Not 24/7]
+http://176.110.1.30:1935/live/donbasonline/playlist.m3u8
